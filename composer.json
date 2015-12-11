@@ -19,9 +19,15 @@
         "thomaswelton/laravel-gravatar": "~1.0",
         "cviebrock/eloquent-sluggable": "^3.0",
         "esensi/model": "^0.5.5",
-        "intervention/image": "^2.3"
+        "intervention/image": "^2.3",
+        "cartalyst/attributes": "dev-laravel"
+
     },
     "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/morphatic/attributes"
+        },
         {
             "type": "composer",
             "url": "https://packages.cartalyst.com"

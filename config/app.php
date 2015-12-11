@@ -141,6 +141,7 @@ return [
 		Thomaswelton\LaravelGravatar\LaravelGravatarServiceProvider::class,
 		Cviebrock\EloquentSluggable\SluggableServiceProvider::class,
 		Intervention\Image\ImageServiceProvider::class,
+		//Cartalyst\Attributes\Laravel\AttributesServiceProvider::class,
 
 		/*
 		 * Application Service Providers...
